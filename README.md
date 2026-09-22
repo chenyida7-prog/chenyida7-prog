@@ -1,10 +1,3 @@
-## Hi there 👋
-
-<!--
-**chenyida7-prog/chenyida7-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 ### 陈一达 Yida Chen
 
 AI Agent 产品经理｜Yale｜专注 MCP / Agent 产品设计与评测体系搭建
